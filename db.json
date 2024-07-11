@@ -2,17 +2,17 @@
   "books": [
     {
       "id": "1",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "title": "Woody",
-      "author": "John Lasseter",
-      "notes": "A classic toy story character."
+      "image": "https://m.media-amazon.com/images/I/61HFDxBnhxL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Golden Son",
+      "author": "Pierce Brown",
+      "notes": "Lives rent free in my head"
     },
     {
       "id": "2",
-      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "title": "Buzz Lightyear",
-      "author": "John Lasseter",
-      "notes": "To infinity and beyond!"
+      "image": "https://m.media-amazon.com/images/I/71Ep7UNeTtL._AC_UF1000,1000_QL80_.jpg",
+      "title": "The Fellow Ship of the Ring",
+      "author": "J. R. R. Tolkien",
+      "notes": "Great Books, amazing movies"
     },
     {
       "id": "1725",
@@ -20,6 +20,13 @@
       "title": "Red Rising",
       "author": "Pierce Brown",
       "notes": "The Best Book "
+    },
+    {
+      "id": "7df4",
+      "image": "https://m.media-amazon.com/images/I/914u+JexlCL._AC_UF1000,1000_QL80_.jpg",
+      "title": "Brave New World",
+      "author": "Aldous HuxleyAldous Huxley",
+      "notes": "Great Book!"
     }
   ]
 }
